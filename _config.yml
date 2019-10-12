@@ -16,6 +16,6 @@ baseurl: ''
 url: ''
 twitter_username: jekyllrb
 github_username: jekyll
-remote-theme: jekyll-serif-theme
+theme: minima
 plugins:
 - jekyll-feed
